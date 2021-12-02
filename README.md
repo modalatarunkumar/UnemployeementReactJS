@@ -1,0 +1,2 @@
+- to add dependies 
+ - git init
